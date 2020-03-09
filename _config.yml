@@ -28,7 +28,7 @@ twitter_username: ACSCOMP
 github_username:  armcdona
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
